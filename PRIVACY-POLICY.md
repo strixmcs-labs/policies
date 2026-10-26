@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Publisher:** Dr. Matt Booth, publishing as [thatosxguy](https://github.com/thatosxguy)
+**Publisher:** [StrixMCS Labs](https://github.com/strixmcs-labs), signed and approved by Dr. Matt Booth
 
-**Contact:** [admin@strixmcs.com](mailto:admin@strixmcs.com)
+**Contact:** [labs@strixmcs.org](mailto:labs@strixmcs.org)
 
-**Last updated:** October 7, 2026
+**Last updated:** October 26, 2026
 
 ## Scope
 
@@ -52,7 +52,7 @@ FanFic to Audio 1.3.0 has no application analytics or telemetry implementation a
 
 macOS narration and audio encoding run locally. Downloading additional system voices or using operating-system services may involve Apple's own services and policies. Files stored in folders synced or backed up by another service are subject to that service's handling as well.
 
-See [FanFic to Audio's detailed data-handling notice](https://github.com/thatosxguy/FanFictoAudio/blob/main/PRIVACY.md) for temporary files, caches, checkpoint cleanup, and additional technical details.
+See [FanFic to Audio's detailed data-handling notice](https://github.com/strixmcs-labs/FanFictoAudio/blob/main/PRIVACY.md) for temporary files, caches, checkpoint cleanup, and additional technical details.
 
 ## Websites and optional AI narration
 
@@ -76,7 +76,7 @@ Hosting and email providers process information needed to deliver their services
 
 I may disclose information when required by law or when reasonably necessary to address a security incident, protect legal rights, or prevent abuse. I will use redacted or synthetic examples where practical when explaining a private report publicly.
 
-Please do not put API keys, passwords, cookies, private configuration files, sensitive logs, or private books in a public issue. Review attachments and file paths before submitting them. For FanFic to Audio security problems, use [private vulnerability reporting](https://github.com/thatosxguy/FanFictoAudio/security/advisories/new) or email me.
+Please do not put API keys, passwords, cookies, private configuration files, sensitive logs, or private books in a public issue. Review attachments and file paths before submitting them. For FanFic to Audio security problems, use [private vulnerability reporting](https://github.com/strixmcs-labs/FanFictoAudio/security/advisories/new) or email me.
 
 ## Retention and deletion
 
@@ -88,7 +88,7 @@ You control local app data. In FanFic to Audio, matching resume checkpoints are 
 
 ## Your choices and rights
 
-You can limit the information you share, choose local narration, remove saved provider keys, delete local files, and manage third-party privacy settings. To request access to, correction of, or deletion of personal information I hold, email [admin@strixmcs.com](mailto:admin@strixmcs.com). Depending on applicable law, you may also have rights to object to or restrict processing, obtain a portable copy, withdraw consent where processing relies on consent, or complain to a data protection authority. I will handle requests as required by applicable law and may ask for enough information to verify the request without requesting unnecessary sensitive data.
+You can limit the information you share, choose local narration, remove saved provider keys, delete local files, and manage third-party privacy settings. To request access to, correction of, or deletion of personal information I hold, email [labs@strixmcs.org](mailto:labs@strixmcs.org). Depending on applicable law, you may also have rights to object to or restrict processing, obtain a portable copy, withdraw consent where processing relies on consent, or complain to a data protection authority. I will handle requests as required by applicable law and may ask for enough information to verify the request without requesting unnecessary sensitive data.
 
 For information controlled by GitHub, an AI provider, a story website, or your backup service, contact that service directly. These services and email providers may process information in countries outside your own; consult their policies and account agreements for locations and safeguards.
 
@@ -104,6 +104,6 @@ I will publish changes here and update the date above. Material changes to a pro
 
 **Dr. Matt Booth**
 
-GitHub: [thatosxguy](https://github.com/thatosxguy)
+GitHub: [strixmcs-labs](https://github.com/strixmcs-labs)
 
-Email: [admin@strixmcs.com](mailto:admin@strixmcs.com)
+Email: [labs@strixmcs.org](mailto:labs@strixmcs.org)
