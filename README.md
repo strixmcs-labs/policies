@@ -18,7 +18,7 @@ Public Privacy Policy and Terms of Service for software projects and support cha
 
 These policies cover the publisher's handling of information and project support. Each project's own privacy notice describes its specific data storage and network behavior. Software use, modification, and redistribution remain governed by the license supplied with that project.
 
-For FanFic to Audio, also read its [data-handling notice](https://github.com/strixmcs-labs/FanFictoAudio/blob/main/PRIVACY.md) and [software license](https://github.com/strixmcs-labs/FanFictoAudio/blob/main/LICENSE).
+For FanFic to Audio, also read its [data-handling notice](https://github.com/strixmcs-labs/fanfic-to-audio/blob/main/PRIVACY.md) and [software license](https://github.com/strixmcs-labs/fanfic-to-audio/blob/main/LICENSE).
 
 GitHub's platform and other third-party services have their own terms and privacy policies.
 
