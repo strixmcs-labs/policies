@@ -2,7 +2,7 @@
 
 **Publisher:** [StrixMCS Labs](https://github.com/strixmcs-labs), signed and approved by Dr. Matt Booth
 
-**Contact:** [admin@strixmcs.com](mailto:admin@strixmcs.com)
+**Contact:** [labs@strixmcs.org](mailto:labs@strixmcs.org)
 
 **Last updated:** October 26, 2026
 
@@ -88,7 +88,7 @@ You control local app data. In FanFic to Audio, matching resume checkpoints are 
 
 ## Your choices and rights
 
-You can limit the information you share, choose local narration, remove saved provider keys, delete local files, and manage third-party privacy settings. To request access to, correction of, or deletion of personal information I hold, email [admin@strixmcs.com](mailto:admin@strixmcs.com). Depending on applicable law, you may also have rights to object to or restrict processing, obtain a portable copy, withdraw consent where processing relies on consent, or complain to a data protection authority. I will handle requests as required by applicable law and may ask for enough information to verify the request without requesting unnecessary sensitive data.
+You can limit the information you share, choose local narration, remove saved provider keys, delete local files, and manage third-party privacy settings. To request access to, correction of, or deletion of personal information I hold, email [labs@strixmcs.org](mailto:labs@strixmcs.org). Depending on applicable law, you may also have rights to object to or restrict processing, obtain a portable copy, withdraw consent where processing relies on consent, or complain to a data protection authority. I will handle requests as required by applicable law and may ask for enough information to verify the request without requesting unnecessary sensitive data.
 
 For information controlled by GitHub, an AI provider, a story website, or your backup service, contact that service directly. These services and email providers may process information in countries outside your own; consult their policies and account agreements for locations and safeguards.
 
@@ -106,4 +106,4 @@ I will publish changes here and update the date above. Material changes to a pro
 
 GitHub: [strixmcs-labs](https://github.com/strixmcs-labs)
 
-Email: [admin@strixmcs.com](mailto:admin@strixmcs.com)
+Email: [labs@strixmcs.org](mailto:labs@strixmcs.org)

@@ -2,7 +2,7 @@
 
 **Publisher:** [StrixMCS Labs](https://github.com/strixmcs-labs), signed and approved by Dr. Matt Booth
 
-**Contact:** [admin@strixmcs.com](mailto:admin@strixmcs.com)
+**Contact:** [labs@strixmcs.org](mailto:labs@strixmcs.org)
 
 **Last updated:** October 26, 2026
 
@@ -44,7 +44,7 @@ Third-party websites, voices, APIs, and tools can change, impose limits, or stop
 
 Read the [Privacy Policy](PRIVACY-POLICY.md) and the project's own data-handling notice before sharing information or using an online feature. FanFic to Audio's detailed notice is available in [PRIVACY.md](https://github.com/strixmcs-labs/FanFictoAudio/blob/main/PRIVACY.md).
 
-Keep provider keys, passwords, cookies, and sensitive configuration files private. Back up important source files and outputs. Before posting a report, remove secrets and unnecessary personal information. Use a project's private security-reporting channel or [admin@strixmcs.com](mailto:admin@strixmcs.com) for sensitive concerns.
+Keep provider keys, passwords, cookies, and sensitive configuration files private. Back up important source files and outputs. Before posting a report, remove secrets and unnecessary personal information. Use a project's private security-reporting channel or [labs@strixmcs.org](mailto:labs@strixmcs.org) for sensitive concerns.
 
 ## Contributions and attribution
 
@@ -72,4 +72,4 @@ For questions, privacy requests, licensing concerns, or a concern about a projec
 
 GitHub: [strixmcs-labs](https://github.com/strixmcs-labs)
 
-Email: [admin@strixmcs.com](mailto:admin@strixmcs.com)
+Email: [labs@strixmcs.org](mailto:labs@strixmcs.org)

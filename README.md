@@ -12,7 +12,7 @@ Public Privacy Policy and Terms of Service for software projects and support cha
 - **Professional website:** [mattbooth.me](https://mattbooth.me)
 - **LinkedIn:** [Dr. Matt Booth](https://www.linkedin.com/in/mpbooth)
 - **Software portfolio:** [StrixMCS Labs on GitHub](https://github.com/strixmcs-labs)
-- **Email:** [admin@strixmcs.com](mailto:admin@strixmcs.com)
+- **Email:** [labs@strixmcs.org](mailto:labs@strixmcs.org)
 
 ## Scope
 
