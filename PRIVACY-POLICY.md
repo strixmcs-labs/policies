@@ -52,7 +52,7 @@ FanFic to Audio 1.3.0 has no application analytics or telemetry implementation a
 
 macOS narration and audio encoding run locally. Downloading additional system voices or using operating-system services may involve Apple's own services and policies. Files stored in folders synced or backed up by another service are subject to that service's handling as well.
 
-See [FanFic to Audio's detailed data-handling notice](https://github.com/thatosxguy/FanFictoAudio/blob/main/PRIVACY.md) for temporary files, caches, checkpoint cleanup, and additional technical details.
+See [FanFic to Audio's detailed data-handling notice](https://github.com/strixmcs-labs/FanFictoAudio/blob/main/PRIVACY.md) for temporary files, caches, checkpoint cleanup, and additional technical details.
 
 ## Websites and optional AI narration
 
@@ -76,7 +76,7 @@ Hosting and email providers process information needed to deliver their services
 
 I may disclose information when required by law or when reasonably necessary to address a security incident, protect legal rights, or prevent abuse. I will use redacted or synthetic examples where practical when explaining a private report publicly.
 
-Please do not put API keys, passwords, cookies, private configuration files, sensitive logs, or private books in a public issue. Review attachments and file paths before submitting them. For FanFic to Audio security problems, use [private vulnerability reporting](https://github.com/thatosxguy/FanFictoAudio/security/advisories/new) or email me.
+Please do not put API keys, passwords, cookies, private configuration files, sensitive logs, or private books in a public issue. Review attachments and file paths before submitting them. For FanFic to Audio security problems, use [private vulnerability reporting](https://github.com/strixmcs-labs/FanFictoAudio/security/advisories/new) or email me.
 
 ## Retention and deletion
 

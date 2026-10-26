@@ -30,9 +30,9 @@ Your books and locally generated outputs are not transferred to me merely becaus
 
 ## FanFic to Audio and third-party services
 
-FanFic to Audio 1.3.0 is offered as free, open-source software. Its native interface and integration are licensed under the [Apache License 2.0](https://github.com/thatosxguy/FanFictoAudio/blob/main/LICENSE). Dependencies retain their own licenses and notices.
+FanFic to Audio 1.3.0 is offered as free, open-source software. Its native interface and integration are licensed under the [Apache License 2.0](https://github.com/strixmcs-labs/FanFictoAudio/blob/main/LICENSE). Dependencies retain their own licenses and notices.
 
-Story downloading is powered by [FanFicFare](https://github.com/JimmXinu/FanFicFare), created by **Jim Miller (JimmXinu) and the FanFicFare contributors**. FanFic to Audio is independently maintained and is not an official FanFicFare release. Review the project's [NOTICE](https://github.com/thatosxguy/FanFictoAudio/blob/main/NOTICE) for attribution and bundled components.
+Story downloading is powered by [FanFicFare](https://github.com/JimmXinu/FanFicFare), created by **Jim Miller (JimmXinu) and the FanFicFare contributors**. FanFic to Audio is independently maintained and is not an official FanFicFare release. Review the project's [NOTICE](https://github.com/strixmcs-labs/FanFictoAudio/blob/main/NOTICE) for attribution and bundled components.
 
 Local narration and optional OpenAI or ElevenLabs narration have different requirements. You supply and manage your own provider accounts and API keys. You are responsible for charges billed by those providers, including charges associated with previews, unfinished requests, and retries. Cancelling an operation does not guarantee that a provider will cancel a charge.
 
@@ -42,7 +42,7 @@ Third-party websites, voices, APIs, and tools can change, impose limits, or stop
 
 ## Privacy and protecting your information
 
-Read the [Privacy Policy](PRIVACY-POLICY.md) and the project's own data-handling notice before sharing information or using an online feature. FanFic to Audio's detailed notice is available in [PRIVACY.md](https://github.com/thatosxguy/FanFictoAudio/blob/main/PRIVACY.md).
+Read the [Privacy Policy](PRIVACY-POLICY.md) and the project's own data-handling notice before sharing information or using an online feature. FanFic to Audio's detailed notice is available in [PRIVACY.md](https://github.com/strixmcs-labs/FanFictoAudio/blob/main/PRIVACY.md).
 
 Keep provider keys, passwords, cookies, and sensitive configuration files private. Back up important source files and outputs. Before posting a report, remove secrets and unnecessary personal information. Use a project's private security-reporting channel or [admin@strixmcs.com](mailto:admin@strixmcs.com) for sensitive concerns.
 
@@ -54,7 +54,7 @@ Preserve the copyright, license, and attribution notices required by applicable 
 
 ## Warranties and liability
 
-The software license supplied with each project contains the applicable software warranty disclaimers and liability provisions. For FanFic to Audio, see sections 7 and 8 of its [Apache License 2.0](https://github.com/thatosxguy/FanFictoAudio/blob/main/LICENSE).
+The software license supplied with each project contains the applicable software warranty disclaimers and liability provisions. For FanFic to Audio, see sections 7 and 8 of its [Apache License 2.0](https://github.com/strixmcs-labs/FanFictoAudio/blob/main/LICENSE).
 
 To the extent permitted by applicable law, project pages, documentation, and voluntary support are provided “as is” and as available, without a promise of uninterrupted availability, complete accuracy, fitness for a particular purpose, or freedom from defects. You should assess whether a project is suitable for your circumstances and verify important results.
 
