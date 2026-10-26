@@ -30,7 +30,7 @@ Your books and locally generated outputs are not transferred to me merely becaus
 
 ## FanFic to Audio and third-party services
 
-FanFic to Audio 1.3.0 is offered as free, open-source software. Its native interface and integration are licensed under the [Apache License 2.0](https://github.com/strixmcs-labs/fanfic-to-audio/blob/main/LICENSE). Dependencies retain their own licenses and notices.
+FanFic to Audio is offered as free, open-source software. Its native interface and integration are licensed under the [Apache License 2.0](https://github.com/strixmcs-labs/fanfic-to-audio/blob/main/LICENSE). Dependencies retain their own licenses and notices.
 
 Story downloading is powered by [FanFicFare](https://github.com/JimmXinu/FanFicFare), created by **Jim Miller (JimmXinu) and the FanFicFare contributors**. FanFic to Audio is independently maintained and is not an official FanFicFare release. Review the project's [NOTICE](https://github.com/strixmcs-labs/fanfic-to-audio/blob/main/NOTICE) for attribution and bundled components.
 

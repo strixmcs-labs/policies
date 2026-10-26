@@ -38,14 +38,15 @@ Where applicable data protection law requires a legal basis, handling an ordinar
 
 ## FanFic to Audio: data on your Mac
 
-FanFic to Audio 1.3.0 has no application analytics or telemetry implementation and no developer-operated backend. It does not automatically send your EPUBs, audio, app preferences, or API keys to me.
+FanFic to Audio 1.5.0 has no application analytics or telemetry implementation and no developer-operated backend. It does not automatically send your EPUBs, audio, app preferences, or API keys to me.
 
 | Data | Storage and purpose |
 | --- | --- |
 | EPUBs, combined series, audiobooks, and book-update backups | Local folders you choose, or backups beside an updated book. |
-| App preferences | macOS preferences, including paths and narration settings. Provider API keys and the contents of your configuration file are not stored there. |
+| App preferences | macOS preferences, including paths, narration settings, narration text options and your pronunciation list. Provider API keys and the contents of your configuration file are not stored there. |
 | Provider API keys | macOS Keychain, when you explicitly select **Save Key**. **Remove Key** deletes the selected provider's saved key. Keys are used to authenticate requests to that provider. |
-| Audiobook queue and narration presets | `~/Library/Application Support/FanFicToAudio`, so the queue and settings survive restarts. These records can contain book titles, authors, local paths, and narration settings, but not API keys. |
+| Audiobook queue and narration presets | `~/Library/Application Support/FanFicToAudio`, so the queue and settings survive restarts. These records can contain book titles, authors, local paths, custom chapter order and chapter titles, and narration settings, but not API keys. |
+| Download list | `downloads.json` in the same folder, so the list is restored after a restart. Entries can contain story or EPUB URLs, titles, authors, word counts, status messages, and local paths of saved books and backups. |
 | AI usage estimates | Local counts, estimated costs, and related usage records. These records do not contain book passages or credentials. |
 | Resume checkpoints | Generated narration passages and validation information in the app's `Checkpoints` folder. These enable interrupted conversions to resume. |
 | FanFicFare configuration | Your selected `personal.ini` and related files remain under your control. They may contain site credentials, cookie-file paths, proxy settings, or other service settings. |
