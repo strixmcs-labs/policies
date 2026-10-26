@@ -6,6 +6,6 @@ Every image used in this repository's documentation, with its source, caption an
 
 | Path | Used in | What it shows | Alt text / caption | Captured | Status |
 |---|---|---|---|---|---|
-| `.github/social-preview.png` | Repository social preview (set in GitHub settings) | Owl head, the project name "Project Policies" and the StrixMCS Labs byline on black, 1280×640 | "Project Policies — StrixMCS Labs" / Repository card shown when the repository is linked | 2026-10-26 | current |
+| `.github/social-preview.png` | Repository social preview (set in GitHub settings) | StrixMCS logo, the project name "Project Policies" and the StrixMCS Labs byline on black, 1280×640 | "Project Policies — StrixMCS Labs" / Repository card shown when the repository is linked | 2026-10-26 | current |
 
 The policy documents contain no images.
