@@ -2,7 +2,7 @@
 
 `StrixMCS Labs · Dr. Matt Booth`
 
-Public Privacy Policy and Terms of Service for software projects and support channels published by [Dr. Matt Booth (thatosxguy)](https://github.com/thatosxguy) that link to these documents.
+Public Privacy Policy and Terms of Service for software projects and support channels published by [StrixMCS Labs](https://github.com/strixmcs-labs), signed and approved by Dr. Matt Booth, that link to these documents.
 
 - [Privacy Policy](PRIVACY-POLICY.md)
 - [Terms of Service](TERMS-OF-SERVICE.md)

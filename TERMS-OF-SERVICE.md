@@ -1,10 +1,10 @@
 # Terms of Service
 
-**Publisher:** Dr. Matt Booth, publishing as [thatosxguy](https://github.com/thatosxguy)
+**Publisher:** [StrixMCS Labs](https://github.com/strixmcs-labs), signed and approved by Dr. Matt Booth
 
 **Contact:** [admin@strixmcs.com](mailto:admin@strixmcs.com)
 
-**Last updated:** October 7, 2026
+**Last updated:** October 26, 2026
 
 ## Scope and software licenses
 
@@ -70,6 +70,6 @@ For questions, privacy requests, licensing concerns, or a concern about a projec
 
 **Dr. Matt Booth**
 
-GitHub: [thatosxguy](https://github.com/thatosxguy)
+GitHub: [strixmcs-labs](https://github.com/strixmcs-labs)
 
 Email: [admin@strixmcs.com](mailto:admin@strixmcs.com)
